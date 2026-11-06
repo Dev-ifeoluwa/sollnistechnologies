@@ -1,7 +1,7 @@
 // Edit these before you deploy.
 const LINKS = {
-  solar: "https://sollnissolar.vercel.app/", // Sollnis Solar website URL
-  pay: "https://sollnispay.vercel.app/", // Sollnis Pay app URL, e.g. https://pay.yourdomain.com
+  solar: "https://solar.sollnistechnologies.com/", // Sollnis Solar website URL
+  pay: "https://pay.sollnistechnologies.com/", // Sollnis Pay app URL, e.g. https://pay.yourdomain.com
   email: "info.sollnistechnologies@gmail.com", // public contact email
   whatsapp: "https://wa.me/2349136745664", // your WhatsApp link
 };
